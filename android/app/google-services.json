@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907136763797",
+    "project_id": "duy-brew-crew",
+    "storage_bucket": "duy-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907136763797:android:e53e516e4845afbd5fd89c",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907136763797-6le4fdum9nlalmbo5l8nhvtkotn5aj47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJiWK9ONGNI5JsNS-e8YuezDBGJzbAQ2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907136763797-6le4fdum9nlalmbo5l8nhvtkotn5aj47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
